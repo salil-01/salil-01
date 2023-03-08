@@ -13,4 +13,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=salil-01&show_icons=true&locale=en" alt="salil-01" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=salil-01&" alt="salil-01" /></p>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=salil-01)](https://github.com/anuraghazra/github-readme-stats)
+ ![GitHub stats](https://github-readme-stats-three-tau-67.vercel.app/api?username=salil-01&show_icons=true&theme=vision-friendly-dark&hide_border=true)
+
+https://github-readme-stats-three-tau-67.vercel.app/
