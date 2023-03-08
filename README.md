@@ -1,4 +1,4 @@
-
+```js
 const readMePlease = {
   greetings: "stranger 👋",
   iAm: "Salil Upadhyay",
@@ -6,7 +6,7 @@ const readMePlease = {
   in: "TypeScript, JavaScript,",
   findMeOn: [{ linkedin: "@salilupadhyay" }, { discord: "r1ddle#5240" }],
 };
-
+```
 
 
 # 💻 Tech Stack:
