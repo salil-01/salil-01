@@ -14,7 +14,7 @@ const readMePlease = {
    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="dash" />
   </div>
 <div align="center">
-  <h3> Connect with me </h3>
+  <h2> Connect with me </h2>
 <a href="https://github.com/salil-01" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
@@ -30,6 +30,7 @@ const readMePlease = {
 </div>  
 
 <br />
+<br />
 <div align="center">
   <img src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/phone-on.gif" width="60%" />
   </br>
@@ -39,9 +40,8 @@ const readMePlease = {
 <div>
   <br />
   <br />
-  <br />
 
- <h3 align="center">Backend Development 💽</h3> 
+ <h2 align="center">Backend Development 💽</h2> 
   <br/>
 <div align="center">  
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="40" /></a> 
@@ -58,7 +58,7 @@ const readMePlease = {
 </div>
  <br/>
    <br/>
- <h3 align="center">Frontend Development 🖥️</h3>
+ <h2 align="center">Frontend Development 🖥️</h2>
    <br/>
 <div align="center">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="40" /></a>
@@ -91,7 +91,7 @@ const readMePlease = {
  
 
   <div align="center">
-    <h3>Tools ⚒️</h3>  
+    <h2>Tools ⚒️</h2>  
      <br/>
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
     &nbsp;&nbsp;
@@ -133,7 +133,7 @@ const readMePlease = {
 
 </br>
 <div align="center">
-<h3>Github Stats 📈</h3>
+<h2>Github Stats 📈</h2>
   <br />
 
 ![](https://github-readme-stats.vercel.app/api?username=salil-01&theme=slateorange&hide_border=false&include_all_commits=true&count_private=true)
