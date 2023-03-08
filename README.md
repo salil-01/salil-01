@@ -1,8 +1,4 @@
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋; May+the+force+be+with+you+...&center=true&size=30">
-  </a>
-</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&multiline=true&width=435&lines=%3C%3E+Hello%2C+There+%F0%9F%91%8B+%3C%2F%3E+;%3C%3E+May+the+Force+be+with+You+%3C%2F%3E)](https://git.io/typing-svg)
 </hr>
 
 ```js
