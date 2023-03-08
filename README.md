@@ -30,7 +30,12 @@ const readMePlease = {
 </div>  
 
 <br />
-
+<div align="center">
+  <img src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/phone-on.gif" width="60%" />
+  </br>
+  </br>
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="dash" />
+</div>
 <div>
    <h2 align="center">Tech Stack 👨‍💻</h2>  
 <table border="0px">
