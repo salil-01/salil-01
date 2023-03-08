@@ -28,12 +28,16 @@ const readMePlease = {
 
 <br />
 
-## My Skill Set  
-<table border="0px"><tr><td valign="top" width="50%" >
+<div>
+   <h2 align="center">Tech Stack</h2>  
+<table border="0px">
+  
+  
+  <tr><td valign="top" width="50%" >
 
 
 
-### Frontend  
+ <h3 align="center">Frontend</h3>
 <div align="center">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="40" /></a>
   &nbsp;&nbsp;
@@ -74,6 +78,7 @@ const readMePlease = {
   &nbsp;&nbsp;
 </div>
 </td></tr></table>
+  </div>
 <br />
 
 ----
