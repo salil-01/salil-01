@@ -37,14 +37,29 @@ const readMePlease = {
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="dash" />
 </div>
 <div>
-   <h2 align="center">Tech Stack 👨‍💻</h2>  
-  
-  
- 
+  <br />
+  <br />
+  <br />
 
-
-
- <h3 align="center">Frontend 🖥️</h3>
+ <h3 align="center">Backend Development 💽</h3> 
+  <br/>
+<div align="center">  
+<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="40" /></a> 
+   &nbsp;&nbsp;
+<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="40" /></a>  
+   &nbsp;&nbsp;
+<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://github.com/RimRaider639/TechStackIcons/raw/master/icons/nodejs/nodejs-original.svg" alt="Node.js" height="40" /></a>  
+   &nbsp;&nbsp;
+<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="40" /></a> 
+   &nbsp;&nbsp;
+<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://w7.pngwing.com/pngs/925/447/png-transparent-express-js-node-js-javascript-mongodb-node-js-text-trademark-logo.png" alt="Express.js" height="40" /></a>  
+   &nbsp;&nbsp;
+  <br/>
+</div>
+ <br/>
+   <br/>
+ <h3 align="center">Frontend Development 🖥️</h3>
+   <br/>
 <div align="center">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="40" /></a>
   &nbsp;&nbsp;
@@ -66,28 +81,18 @@ const readMePlease = {
   &nbsp;&nbsp;
 <a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="40" /></a>  &nbsp;&nbsp;
   <a href="https://babeljs.io/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Babel_Logo.svg/1200px-Babel_Logo.svg.png" alt="NextJS" height="40" /></a>  &nbsp;&nbsp;
+   <br/>
 </div>
+ <br/>
+   <br/>
 
 
 
-
-  <h3 align="center">Backend 💽</h3>  
-<div align="center">  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="40" /></a> 
-   &nbsp;&nbsp;
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="40" /></a>  
-   &nbsp;&nbsp;
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://github.com/RimRaider639/TechStackIcons/raw/master/icons/nodejs/nodejs-original.svg" alt="Node.js" height="40" /></a>  
-   &nbsp;&nbsp;
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="40" /></a> 
-   &nbsp;&nbsp;
-<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://w7.pngwing.com/pngs/925/447/png-transparent-express-js-node-js-javascript-mongodb-node-js-text-trademark-logo.png" alt="Express.js" height="40" /></a>  
-   &nbsp;&nbsp;
  
-</div>
 
   <div align="center">
     <h3>Tools ⚒️</h3>  
+     <br/>
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
     &nbsp;&nbsp;
     <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> 
@@ -115,7 +120,9 @@ const readMePlease = {
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="40"  alt="slack logo"  />
     &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="40"  alt="ubuntu logo"  />
+     <br/>
   </div>
+   <br/>
   </div>
 <br />
 
