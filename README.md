@@ -61,7 +61,7 @@ const readMePlease = {
 <a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
 </div>
-https://github.com/RimRaider639/TechStackIcons/raw/master/icons/nodejs/nodejs-original.svg
+<!-- https://github.com/RimRaider639/TechStackIcons/raw/master/icons/nodejs/nodejs-original.svg -->
 </td>
 </tr></table>
 </br>
