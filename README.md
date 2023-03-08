@@ -7,7 +7,9 @@ const readMePlease = {
   findMeOn: [{ linkedin: "@salilupadhyay" }, { discord: "r1ddle#5240" }],
 };
 ```
-
+<div align="center">
+   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="dash" />
+  </div>
 <div align="center">
   <h3> Connect with me </h3>
 <a href="https://github.com/salil-01" target="_blank">
