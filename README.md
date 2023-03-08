@@ -120,6 +120,7 @@ const readMePlease = {
 </br>
 <div align="center">
 <h3>Github Stats 📈</h3>
+  <br />
 
 ![](https://github-readme-stats.vercel.app/api?username=salil-01&theme=slateorange&hide_border=false&include_all_commits=true&count_private=true)
    &nbsp;&nbsp;&nbsp;&nbsp;
