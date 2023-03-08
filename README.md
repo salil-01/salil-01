@@ -54,6 +54,7 @@ const readMePlease = {
 <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="40" /></a>  
   &nbsp;&nbsp;
 <a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="40" /></a>  &nbsp;&nbsp;
+  <a href="https://babeljs.io/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Babel_Logo.svg/1200px-Babel_Logo.svg.png" alt="NextJS" height="40" /></a>  &nbsp;&nbsp;
 </div>
 
 </td><td valign="top" width="50%">
@@ -73,7 +74,6 @@ const readMePlease = {
 <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="40" /></a>
   &nbsp;&nbsp;
 </div>
-https://github.com/RimRaider639/TechStackIcons/raw/master/icons/nodejs/nodejs-original.svg
 </td></tr></table>
 <br />
 
