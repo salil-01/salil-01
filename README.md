@@ -29,7 +29,7 @@ const readMePlease = {
 <br />
 
 ## My Skill Set  
-<table><tr><td valign="top" width="50%">
+<table border="0px"><tr><td valign="top" width="50%" >
 
 
 
