@@ -13,4 +13,4 @@
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=salil-01&" alt="salil-01" /></p>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=salil-01)](https://github.com/anuraghazra/github-readme-stats)
+<p>[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=salil-01)](https://github.com/anuraghazra/github-readme-stats) </p>
