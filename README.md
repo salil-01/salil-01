@@ -13,4 +13,13 @@
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=salil-01&" alt="salil-01" /></p>
-<p>[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=salil-01)](https://github.com/anuraghazra/github-readme-stats) </p>
+<div align="center">
+<h2>🔥My Github Stats🔥</h2>
+
+ [![GitHub Streak](https://streak-stats.demolab.com?user=salil-01&theme=vision-friendly-dark&hide_border=true)](https://git.io/streak-stats)
+ ![GitHub stats](https://github-readme-stats-kj4q.vercel.app/api?username=salil-01&show_icons=true&theme=vision-friendly-dark&hide_border=true)
+<br/>
+ [![Top Langs](https://github-readme-stats-kj4q.vercel.app/api/top-langs/?username=salil-01&layout=compact&theme=vision-friendly-dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+<br/>
+ 
+</div>
