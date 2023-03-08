@@ -100,7 +100,7 @@ const readMePlease = {
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40"  alt="vscode logo"  />
     &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" height="40" alt="yarn logo"  />
-    v
+   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40"  alt="npm logo"  />
     &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
@@ -119,10 +119,13 @@ const readMePlease = {
 
 </br>
 
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=salil-01&theme=slateorange&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=salil-01&theme=slateorange&hide_border=false)<br/>
+<div align="center">
+   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="dash" />
+  </div>
+ <h3 align="center">My GitHub Stats 📊</h3>  
+![](https://github-readme-stats.vercel.app/api?username=salil-01&theme=slateorange&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=salil-01&theme=slateorange&hide_border=false)
+<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=salil-01&theme=slateorange&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
