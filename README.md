@@ -17,7 +17,7 @@
 <h2>🔥My Github Stats🔥</h2>
 
  [![GitHub Streak](https://streak-stats.demolab.com?user=salil-01&theme=vision-friendly-dark&hide_border=true)](https://git.io/streak-stats)
- ![GitHub stats](https://github-readme-stats-kj4q.vercel.app/api?username=salil-01&show_icons=true&theme=vision-friendly-dark&hide_border=true)
+ ![GitHub stats](https://github-readme-stats-three-tau-67.vercel.app/api?username=salil-01&show_icons=true&theme=vision-friendly-dark&hide_border=true)
 <br/>
  [![Top Langs](https://github-readme-stats-kj4q.vercel.app/api/top-langs/?username=salil-01&layout=compact&theme=vision-friendly-dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 <br/>
