@@ -38,10 +38,9 @@ const readMePlease = {
 </div>
 <div>
    <h2 align="center">Tech Stack 👨‍💻</h2>  
-<table border="0px">
   
   
-  <tr><td valign="top" width="50%" >
+ 
 
 
 
@@ -69,7 +68,7 @@ const readMePlease = {
   <a href="https://babeljs.io/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Babel_Logo.svg/1200px-Babel_Logo.svg.png" alt="NextJS" height="40" /></a>  &nbsp;&nbsp;
 </div>
 
-</td><td valign="top" width="50%">
+
 
 
   <h3 align="center">Backend 💽</h3>  
@@ -86,7 +85,7 @@ const readMePlease = {
    &nbsp;&nbsp;
  
 </div>
-</td></tr></table>
+
   <div align="center">
     <h3>Tools ⚒️</h3>  
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
