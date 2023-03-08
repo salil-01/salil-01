@@ -119,9 +119,7 @@ const readMePlease = {
 
 </br>
 
-<div align="center">
-   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="dash" />
-  </div>
+
  <h3 align="center">My GitHub Stats 📊</h3>  
 ![](https://github-readme-stats.vercel.app/api?username=salil-01&theme=slateorange&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=salil-01&theme=slateorange&hide_border=false)
