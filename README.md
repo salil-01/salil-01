@@ -38,7 +38,8 @@ const readMePlease = {
 
 
 ### Frontend  
-<div align="center">  
+<div align="center">
+  <tr>
 <a href="https://reactjs.org/" target="_blank" style="margin: 20px"><img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="40" /></a>  
   &nbsp;   &nbsp;
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="40" /></a>  
@@ -49,6 +50,8 @@ const readMePlease = {
    &nbsp;  &nbsp;
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="40" /></a>  
    &nbsp;  &nbsp;
+  </tr>
+  <tr>
 <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="40" /></a>  
    &nbsp;  &nbsp;
 <a href="https://redux.js.org/" target="_blank"><img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="40" /></a>  
@@ -59,6 +62,7 @@ const readMePlease = {
    &nbsp;  &nbsp;
 <a href="https://www.figma.com/" target="_blank"><img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="40" /></a>  
    &nbsp;  &nbsp;
+  </tr>
 </div>
 
 </td><td valign="top" width="50%">
