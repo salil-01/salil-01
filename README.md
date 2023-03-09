@@ -130,8 +130,10 @@ const readMePlease = {
 <div align="center">
 <h2>Github Stats 📈</h2>
   <br />
-
-![]![Salil's GitHub stats](https://github-readme-stats-qx8s.vercel.app/api?username=salil-01&show_icons=true&theme=vision-friendly-dark)
+<!-- github stats -->
+<!-- ![Dark Mode](https://github-readme-stats-qx8s.vercel.app/api?username=salil-01&show_icons=true&theme=vision-friendly-dark) -->
+[![Dark](https://github-readme-stats-qx8s.vercel.app/api?username=salil-01&show_icons=true&theme=vision-friendly-dark)]
+[![Light](https://github-readme-stats-qx8s.vercel.app/api?username=salil-01&show_icons=true&theme=default#gh-light-mode-only)]
 &nbsp;&nbsp;&nbsp;&nbsp;
 <!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=salil-01&theme=slateorange&hide_border=false)
 <br/>
