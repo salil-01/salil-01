@@ -1,4 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=6000&pause=1000&width=600&lines=%3C%3E+Hello%2C+There+%F0%9F%91%8B+%3C%2F%3E+;%3C%3E+May+the+Force+be+with+You+%3C%2F%3E)](https://git.io/typing-svg)
+
 </hr>
 
 ```js
@@ -10,6 +11,7 @@ const readMePlease = {
   findMeOn: [{ linkedin: "@salilupadhyay" }, { discord: "r1ddle#5240" }],
 };
 ```
+
 <div align="center">
    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="dash" />
   </div>
@@ -27,7 +29,7 @@ const readMePlease = {
 <a href="https://stackoverflow.com/users/r1ddle" target="_blank">
 <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
 </a>  
-</div>  
+</div>
 
 <br />
 <br />
@@ -86,10 +88,6 @@ const readMePlease = {
  <br/>
    <br/>
 
-
-
- 
-
   <div align="center">
     <h2>Tools & Utilities ⚒️</h2>  
      <br/>
@@ -126,10 +124,7 @@ const readMePlease = {
   </div>
 <br />
 
-----
-
-
-
+---
 
 </br>
 <div align="center">
@@ -137,12 +132,11 @@ const readMePlease = {
   <br />
 
 ![](https://github-readme-stats.vercel.app/api?username=salil-01&theme=slateorange&hide_border=false&include_all_commits=true&count_private=true)
-   &nbsp;&nbsp;&nbsp;&nbsp;
-   ![](https://github-readme-streak-stats.herokuapp.com/?user=salil-01&theme=slateorange&hide_border=false)
+&nbsp;&nbsp;&nbsp;&nbsp;
+![](https://github-readme-streak-stats.herokuapp.com/?user=salil-01&theme=slateorange&hide_border=false)
 <br/>
- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=salil-01&theme=slateorange&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=salil-01&theme=slateorange&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 <br/>
+
 </div>
 <hr/>
-
-  
