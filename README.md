@@ -16,7 +16,7 @@ const readMePlease = {
    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="dash" />
   </div>
 <div align="center">
-  <h2> Connect with me </h2>
+  <h2> Connect with me ⬇️</h2>
 <a href="https://github.com/salil-01" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
@@ -33,7 +33,7 @@ const readMePlease = {
  <br/>
   <br/>
 <div align="center">
-  <h2> Checkout my Portfolio ⬇️ </h2>
+  <h2> Checkout my Portfolio ⬇️</h2>
  <a href="https://salil-01.github.io/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Portfolio&logo=patreon&label=&color=F96854&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="patreon logo"  />
   </a>
