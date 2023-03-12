@@ -4,7 +4,7 @@
 
 ```js
 const readMePlease = {
-  greetings: "Hey 👋",
+  greetings: "Namaste 👋",
   iAm: "Salil Upadhyay",
   usually: "building things",
   in: "JavaScript, TypeScript,",
