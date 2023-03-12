@@ -30,6 +30,12 @@ const readMePlease = {
 <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
 </a>  
 </div>
+<div align="center">
+  <h2> Checkout my Portfolio ➡️ </h2>
+ <a href="https://salil-01.github.io/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=patreon&label=&color=F96854&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="patreon logo"  />
+  </a>
+</div>
 
 <br />
 <br />
