@@ -135,7 +135,7 @@ const readMePlease = {
 &nbsp;&nbsp;&nbsp;&nbsp;
 ![Salil's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=salil-01&theme=vision-friendly-dark&hide_border=true)
 <br/>
-<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=salil-01&theme=slateorange&hide_border=false&include_all_commits=true&count_private=true&layout=compact) -->
+![Salil's language stats](https://github-readme-stats-qx8s.vercel.app/api/top-langs/?username=salil-01&theme=slateorange&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 <br/>
 
 </div>
