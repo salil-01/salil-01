@@ -1,7 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=6000&pause=1000&color=F0AA37&width=600&lines=%3C%3E+Hello%2C+There+%3C%2F%3E+;%3C%3E+May+the+Force+be+with+You+%3C%2F%3E)](https://git.io/typing-svg)
 
 </hr>
-
+<div align="left">
+  <p>![](https://komarev.com/ghpvc/?username=salil-01&style=flat-square)</p>
+</div>
 ```js
 const readMePlease = {
   greetings: "Namaste 👋",
