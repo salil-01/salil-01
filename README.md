@@ -2,7 +2,7 @@
 
 </hr>
 <div align="left">
-  <p>![](https://komarev.com/ghpvc/?username=salil-01&style=flat-square)</p>
+  ![View Counter](https://komarev.com/ghpvc/?username=salil-01&style=flat-square)
 </div>
 ```js
 const readMePlease = {
