@@ -133,7 +133,7 @@ const readMePlease = {
 <h2>Github Stats 📈</h2>
   <br />
   
-![Salil language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=salil-01&theme=vision-friendly-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![Salil's language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=salil-01&theme=vision-friendly-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
   <br/>
 ![Salil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=salil-01&count_private=true&show_icons=true&theme=vision-friendly-dark&hide_border=true)
 ![Salil's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=salil-01&theme=vision-friendly-dark&hide_border=true)
