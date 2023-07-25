@@ -157,6 +157,8 @@ const readMePlease = {
 [![The-Great-Food-Fiasco Card](https://github-readme-stats.vercel.app/api/pin/?username=salil-01&repo=The-Great-Food-Fiasco&show_owner=true&theme=vision-friendly-dark)](https://github.com/salil-01/The-Great-Food-Fiasco
 )
   &nbsp;&nbsp;&nbsp;
-[![Codify Genius Card](https://github-readme-stats.vercel.app/api/pin/?username=salil-01&repo=Codify&show_owner=true&theme=transparent)](https://github.com/salil-01/Codify)
+  [![Raising Genius Card](https://github-readme-stats.vercel.app/api/pin/?username=salil-01&repo=RaisingGenius&show_owner=true&theme=vision-friendly-dark#gh-dark-mode-only)](https://github.com/salil-01/RaisingGenius)
+  
+[![Codify Genius Card](https://github-readme-stats.vercel.app/api/pin/?username=salil-01&repo=Codify&show_owner=true&theme=transparent#gh-light-mode-only)](https://github.com/salil-01/Codify)
  &nbsp;&nbsp;&nbsp;
   </div>
