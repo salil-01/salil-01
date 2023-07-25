@@ -142,4 +142,21 @@ const readMePlease = {
 <br/>
 
 </div>
-<hr/>
+<div align="center">
+   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="dash" />
+  </div>
+  <div align="center">
+  <h2>Recent Projects 📜</h2>
+  </div>
+  <div align="center">
+    
+[![Bite Book Card](https://github-readme-stats.vercel.app/api/pin/?username=salil-01&repo=BiteBook&show_owner=true&theme=vision-friendly-dark)](https://github.com/salil-01/BiteBook)
+  &nbsp;&nbsp;&nbsp;
+[![Raising Genius Card](https://github-readme-stats.vercel.app/api/pin/?username=salil-01&repo=RaisingGenius&show_owner=true&theme=vision-friendly-dark)](https://github.com/salil-01/RaisingGenius)
+ &nbsp;&nbsp;&nbsp;
+[![The-Great-Food-Fiasco Card](https://github-readme-stats.vercel.app/api/pin/?username=salil-01&repo=The-Great-Food-Fiasco&show_owner=true&theme=vision-friendly-dark)](https://github.com/salil-01/The-Great-Food-Fiasco
+)
+  &nbsp;&nbsp;&nbsp;
+[![Codify Genius Card](https://github-readme-stats.vercel.app/api/pin/?username=salil-01&repo=Codify&show_owner=true&theme=transparent)](https://github.com/salil-01/Codify)
+ &nbsp;&nbsp;&nbsp;
+  </div>
