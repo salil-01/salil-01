@@ -1,4 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=6000&pause=1000&color=F0AA37&width=600&lines=%3C%3E+Hello%2C+There+%3C%2F%3E+;%3C%3E+May+the+Force+be+with+You+%3C%2F%3E)](https://git.io/typing-svg)
+
 </hr>
 
 ```js
@@ -152,13 +153,15 @@ const readMePlease = {
     
 [![Bite Book Card](https://github-readme-stats.vercel.app/api/pin/?username=salil-01&repo=BiteBook&show_owner=true&theme=vision-friendly-dark)](https://github.com/salil-01/BiteBook)
   &nbsp;&nbsp;&nbsp;
-[![Raising Genius Card](https://github-readme-stats.vercel.app/api/pin/?username=salil-01&repo=RaisingGenius&show_owner=true&theme=vision-friendly-dark)](https://github.com/salil-01/RaisingGenius)
- &nbsp;&nbsp;&nbsp;
-[![The-Great-Food-Fiasco Card](https://github-readme-stats.vercel.app/api/pin/?username=salil-01&repo=The-Great-Food-Fiasco&show_owner=true&theme=github_dark&bg_color=00000000)](https://github.com/salil-01/The-Great-Food-Fiasco
-)
-  &nbsp;&nbsp;&nbsp;
-  [![Raising Genius Card](https://github-readme-stats.vercel.app/api/pin/?username=salil-01&repo=Codify&show_owner=true&theme=transparent)](https://github.com/salil-01/Codify)
-  
 
- &nbsp;&nbsp;&nbsp;
+[![Raising Genius Card](https://github-readme-stats.vercel.app/api/pin/?username=salil-01&repo=RaisingGenius&show_owner=true&theme=vision-friendly-dark)](https://github.com/salil-01/RaisingGenius)
+
+[![The-Great-Food-Fiasco Card](https://github-readme-stats.vercel.app/api/pin/?username=salil-01&repo=The-Great-Food-Fiasco&show_owner=true&theme=github_dark&bg_color=00000000)](https://github.com/salil-01/The-Great-Food-Fiasco)
+&nbsp;&nbsp;&nbsp;
+[![Codify Card](https://github-readme-stats.vercel.app/api/pin/?username=salil-01&repo=Codify&show_owner=true&theme=transparent)](https://github.com/salil-01/Codify)
+
+[![Bug-Tracker-Board Card](https://github-readme-stats.vercel.app/api/pin/?username=salil-01&repo=Bug-Tracker-Board&show_owner=true&theme=transparent)](https://github.com/salil-01/Bug-Tracker-Board)
+&nbsp;&nbsp;&nbsp;
+[![Easy-Note Card](https://github-readme-stats.vercel.app/api/pin/?username=salil-01&repo=Easy-Note&show_owner=true&theme=transparent)](https://github.com/salil-01/Easy-Note)
+
   </div>
