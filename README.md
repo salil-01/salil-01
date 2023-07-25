@@ -153,7 +153,6 @@ const readMePlease = {
     
 [![Bite Book Card](https://github-readme-stats.vercel.app/api/pin/?username=salil-01&repo=BiteBook&show_owner=true&theme=transparent)](https://github.com/salil-01/BiteBook)
   &nbsp;&nbsp;&nbsp;
-
 [![Raising Genius Card](https://github-readme-stats.vercel.app/api/pin/?username=salil-01&repo=RaisingGenius&show_owner=true&theme=transparent)](https://github.com/salil-01/RaisingGenius)
 
 [![The-Great-Food-Fiasco Card](https://github-readme-stats.vercel.app/api/pin/?username=salil-01&repo=The-Great-Food-Fiasco&show_owner=true&theme=transparent)](https://github.com/salil-01/The-Great-Food-Fiasco)
