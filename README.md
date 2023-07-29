@@ -159,7 +159,7 @@ const readMePlease = {
 &nbsp;&nbsp;&nbsp;
 [![Codify Card](https://github-readme-stats.vercel.app/api/pin/?username=salil-01&repo=Codify&theme=transparent)](https://github.com/salil-01/Codify)
  &nbsp;&nbsp;&nbsp;
-[![Bug-Tracker-Board Card](https://github-readme-stats.vercel.app/api/pin/?username=salil-01&repo=Bug-Tracker-Board&theme=transparent)](https://github.com/salil-01/Bug-Tracker-Board)
+[![Bug-Tracker Board Card](https://github-readme-stats.vercel.app/api/pin/?username=salil-01&repo=Bug-Tracker-Board&theme=transparent)](https://github.com/salil-01/Bug-Tracker-Board)
 &nbsp;&nbsp;&nbsp;
 [![Easy-Note Card](https://github-readme-stats.vercel.app/api/pin/?username=salil-01&repo=Easy-Note&theme=transparent)](https://github.com/salil-01/Easy-Note)
 &nbsp;&nbsp;&nbsp;
